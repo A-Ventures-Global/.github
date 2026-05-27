@@ -24,7 +24,7 @@ We open-source the **interfaces, specs, and conventions** of this work — the m
 
 | Project | What it is |
 | --- | --- |
-| **[PRDIS](https://github.com/A-Ventures-Global/prdis)** | *Profit Routed per Dollar of Inference Spend* — an open metric for measuring the economic efficiency of AI inference in commerce. One number, comparable across models and time. [Try the calculator →](https://a-ventures-global.github.io/prdis/) |
+| **[PRDIS](https://github.com/A-Ventures-Global/prdis)** | *Profit Routed per Dollar of Inference Spend* — an open metric for measuring the economic efficiency of AI inference in commerce. One number, comparable across models and time. [Try the calculator →](https://a-ventures-global.github.io/PRDIS/) |
 
 *More open tools and standards are on the way — agentic-commerce infrastructure, marketplace tooling, and the metrics that make AI-driven commerce legible.*
 
